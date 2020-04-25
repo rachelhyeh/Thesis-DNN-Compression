@@ -1,6 +1,7 @@
 # Thesis-DNN-Compression Method
 
 - Goal: Increasing the weight compressed ratio
+- Method: Python with Tensorflow
 - Data: MNIST <br/>
 - NN based on: LeNet-5 <br/>
 - DNN structure are running through CoLab by the link:
